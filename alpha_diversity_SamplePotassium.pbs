@@ -1,0 +1,22 @@
+#!/bin/bash
+#SBATCH -t 1:00:00
+#SBATCH -n 24
+#SBATCH -p short
+#Load modules and qiime
+module load eb
+module load Miniconda2
+source activate qiime
+
+# setting temporary directory
+export TMPDIR=~/qiime_tmp
+
+# alpha diversity comparison 
+echo "compare alpha diversity"
+compare_alpha_diversity.py \
+-i ~/2018_02_smb/Core_Diversity/arare_max627/alpha_div_collated/PD_whole_tree.txt \
+-m ~/2018_02_smb/complete_map.tsv \
+-c SamplePotassium
+-o ~/2018_02_smb/Alpha/Alpha_diversity_PD_whole_tree.txt/SamplePotassium
+#deactivating environment
+source deactivate 
+

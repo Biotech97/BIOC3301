@@ -1,0 +1,23 @@
+#!/bin/bash
+#SBATCH -t 1:00:00
+#SBATCH -n 24
+#SBATCH -p short
+#Load modules and qiime
+module load eb
+module load Miniconda2
+source activate qiime
+
+# setting temporary directory
+export TMPDIR=~/qiime_tmp
+#groupsignificance
+echo "potassium  group significance"
+group_significance.py \
+-i  ~/2018_02_smb/summarize_taxa/otu_table_mc2_w_tax_no_pynast_failures_L2.biom \
+-o ~/2018_02_smb/group_significance_potassium.tsv \
+-m ~/2018_02_smb/complete_map.tsv \
+-c SamplePotassium 
+
+#deactivating environment
+source deactivate
+
+

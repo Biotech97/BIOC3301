@@ -1,0 +1,20 @@
+#!/bin/bash
+#SBATCH -t 1:00:00
+#SBATCH -n 24
+#SBATCH -p short
+#Load modules and qiime
+module load eb
+module load Miniconda2
+source activate qiime
+
+# setting temporary directory
+export TMPDIR=~/qiime_tmp
+#filter_taxa 
+echo "filter taxa"
+filter_taxa_from_otu_table.py \
+-i ~/2018_02_smb/summarize_taxa/otu_table_mc2_w_tax_no_pynast_failures_L2.biom \
+-o ~/2018_02_smb/filter_taxa \
+-p p__Proteobacteria,p__Acidobacteria,p__Actinobacteria,p__Verrucomicrobia,p__Bacteriodetes,p__Gemmatimonadetes,p__Chloroflexi,p__Crenarchaeota,p__Nitrospirae,p__Firmicutes  
+
+#deactivating environment
+source deactivate

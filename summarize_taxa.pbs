@@ -1,0 +1,21 @@
+#!/bin/bash
+#SBATCH -t 1:00:00
+#SBATCH -n 24
+#SBATCH -p short
+#Load modules and qiime
+module load eb
+module load Miniconda2
+source activate qiime
+
+# setting temporary directory
+export TMPDIR=~/qiime_tmp
+#summarize_taxa 
+echo "summarize_taxa"
+summarize_taxa.py \
+-i ~/2018_02_smb/OTUs4/otu_table_mc2_w_tax_no_pynast_failures.biom \
+-o ~/2018_02_smb/summarize_taxa \
+-L 2
+
+#deactivating environment
+source deactivate
+

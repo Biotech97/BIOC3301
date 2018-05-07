@@ -1,0 +1,25 @@
+#!/bin/bash
+#BATCH -t 1:00:00
+#SBATCH -n 24
+#SBATCH -p short
+#Load modules and qiime
+module load eb
+module load Miniconda2
+source activate qiime
+
+# setting temporary directory
+export TMPDIR=~/qiime_tmp
+
+# compare_categories 
+echo "analyse statistical significance of sample groupings using distance matrices"
+compare_categories.py \
+--method anosim \
+-i ~/2018_02_smb/Core_Diversity/bdiv_even627/unweighted_unifrac_dm.txt \
+-m ~/2018_02_smb/complete_map.tsv \ 
+-m ~/2018_02_smb/complete_map.tsv \
+-c SamplePh \ 
+-o ~/2018_02_smb/Anosim_pH
+  
+#deactivating environment
+source deactivate 
+
