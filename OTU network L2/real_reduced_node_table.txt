@@ -1,0 +1,86 @@
+node_name	node_disp_name	ntype	degree	weighted_degree	consensus_lin	BarcodeSequence	LinkerPrimerSequence	SampleType	Year	Month	Day	SampleLongitude	SampleLatitude	SampleSiteDescription	SampleDepth	SampleFootFall	SampleVegetation	SampleWeatherTemp	SampleMoisture	SampleDescription	SamplePh	SamplePotassium	SampleNitrogen	SamplePhosphorus
+515rcbc10	515rcbc10	user_node	44	1.0	other	ACTACTGAGGAT	GTGYCAGCMGCCGCGGTAA	soil	2017	10	17	51.5241141	-0.1312857	Underneath a log. Many woodlice, millipedes, snails, slugs, earwigs.	10	none	none	15	dry	Fairly compact. Mostly soil, few small rocks. Patches of wet mud deeper in. Crumbles easily	9	Trace	Medium	Medium
+515rcbc11	515rcbc11	user_node	39	1.0	other	AATTCACCTCCT	GTGYCAGCMGCCGCGGTAA	soil	2017	10	17	51.5245	-0.1316	shrubs, away from footpaths; three nearby plants with average distance 0.5m, glass fragments and charcoal were seen, covered by leaves	9.5	none	shrubs	14	moist	heavy - sticks together and difficult to dig, stony, rubbly, moist	5	Trace	Low	High
+515rcbc12	515rcbc12	user_node	45	1.0	other	CGTATAAATGCG	GTGYCAGCMGCCGCGGTAA	soil	2017	10	17	51.535722	-0.159251	Regents canal, around 1m away from the water. Nearby trees, ivy. No grass.	3	none	none	14	moist	Dark brown colour, solid, probably contains clay	5.5	Medium	Trace	Medium
+515rcbc13	515rcbc13	user_node	37	1.0	other	ATGCTGCAACAC	GTGYCAGCMGCCGCGGTAA	soil	2017	10	17	51.52453	-0.13123	1m away from the footpath, 5m away from a tree	11.5	none	grass	15	moist	Dark, moist, semi-compact soil. Small rocks. Reached a 2mm thick root.	5.5	Low	Low	Medium
+515rcbc14	515rcbc14	user_node	38	1.0	other	ACTCGCTCGCTG	GTGYCAGCMGCCGCGGTAA	soil	2017	10	17	51.52461	-0.13103	Approx. 2.5m from footpath and 10m from road, 2m away from a tree	10.5	none	grass	15	dry	Crumbly, dry, coarse, mostly soil and a few small rocks and roots	5.5	Trace	Trace	Low
+515rcbc15	515rcbc15	user_node	40	1.0	other	TTCCTTAGTAGT	GTGYCAGCMGCCGCGGTAA	soil	2017	10	17	51.5244	-0.1309	Open field, over 2 metres from foot paths, trees, etc.	7	none	grass	14	moist	Medium loam	5	Medium	Trace	Medium
+515rcbc16	515rcbc16	user_node	40	1.0	other	CGTCCGTATGAA	GTGYCAGCMGCCGCGGTAA	soil	2017	10	17	51.52457	-0.13064	1m from a big tree next to a bench	15	none	shrubs	14	moist	dark brown, fine with some pebbles.	5.5	Trace	Trace	Low
+515rcbc17	515rcbc17	user_node	39	1.0	other	ACGTGAGGAACG	GTGYCAGCMGCCGCGGTAA	soil	2017	10	17	51.524641	-0.131086	Underneath a tree	10.8	none	none	14	dry	Crumbly and dry. Some small rocks and clumped soil.	5	Medium	Trace	Low
+515rcbc18	515rcbc18	user_node	43	1.0	other	GGTTGCCCTGTA	GTGYCAGCMGCCGCGGTAA	soil	2017	10	17	51.5242733	-0.1307983	Many plants, shrubs and flowers nearby. The location was below the tree but not within the range of the trees root	14	none	shrubs	14	moist	Many granules and clay present	8.5	Trace	Low	Medium
+515rcbc19	515rcbc19	user_node	40	1.0	other	CATATAGCCCGA	GTGYCAGCMGCCGCGGTAA	soil	2017	10	17	51.5242961	-0.13133	3.5m from the footpath, closer to the wall/perimeter of the park - 2m, directly beside a tree with green/yellow variegated leaves; a place unlikely to be trampled.	16	none	shrubs	15	dry	First inch of soil, dry and sand-like. The remaining depth was dark, semi-compact, crumbly, moist soil. Few pebbles encountered along with 2 small, white baby radishes. The hole also contained thin roots of an adjacent tall plant. There was a wet, soft piece of a log, inside the hole.	9	Low	Low	Medium
+515rcbc20	515rcbc20	user_node	18	1.0	other	GCCTATGAGATC	GTGYCAGCMGCCGCGGTAA	soil	2017	10	17	51.565109	-0.09202	Cooked food waste and wedge peelings compost	10	none	mycelium	13	dry	dry soil with small bits of wood and mycelium	5	Medium-High	High	High
+515rcbc21	515rcbc21	user_node	39	1.0	other	CAAGTGAAGGGA	GTGYCAGCMGCCGCGGTAA	soil	2017	10	17	51.5243	-0.1309	Next to flower bed	10	none	grass	14	moist	Slightly sandy with no stones or roots	9	Low	Low	Low
+515rcbc22	515rcbc22	user_node	40	1.0	other	CACGTTTATTCC	GTGYCAGCMGCCGCGGTAA	soil	2017	10	17	51.5244	-0.13072	1m from a tree, 1.5m from a footpath	10	none	grass	14	moist	slightly moist and crumbly, 2 worms in the soil	6.5	Low	Trace	Medium
+515rcbc23	515rcbc23	user_node	36	1.0	other	TAATCGGTGCCA	GTGYCAGCMGCCGCGGTAA	soil	2017	10	17	51.52446	-0.13049	1 m from the footpath, elevated flower bed next to the perimeter of the park, under a tree and surrounded by small bushes, no grass	14	none	bushes	14	low	dry and compact, surface covered by leaves and branches. Pebbles were encountered in the first 5 cm along with a large worm.	5.7	Trace	Trace	Medium
+515rcbc24	515rcbc24	user_node	40	1.0	other	TGACTAATGGCC	GTGYCAGCMGCCGCGGTAA	soil	2017	10	17	51.524541	-0.131043	Edge of flower bed, adjacent to grass in the centre of Gordon Square park	3	minimal	none	14	dry	crumbly loam, some small rocks and roots from neighbouring grass and flowers	8	Trace	Medium	Trace
+515rcbc25	515rcbc25	user_node	39	1.0	other	CGGGACACCCGA	GTGYCAGCMGCCGCGGTAA	soil	2017	10	17	51.52424	-0.13053	1.5m from tree, 2m from path	9.5	none	grass	14	low	dark brown, dry, fine, powdery, compact, some small rocks and worms	5	Low	Trace	Trace-Low
+515rcbc26	515rcbc26	user_node	45	1.0	other	CTGTCTATACTA	GTGYCAGCMGCCGCGGTAA	soil	2017	10	17	51.52415	-0.13074	Edge of a shrubbery flowerbed, near grass	15	none	none	15	low	Hard with some moisture and small rocks	9	Trace-Low	Trace-Low	Trace-Low
+515rcbc27	515rcbc27	user_node	35	1.0	other	TATGCCAGAGAT	GTGYCAGCMGCCGCGGTAA	soil	2017	10	17	51.5240476	-0.1310242	Bushes around	10	none	bushes	14	dry	Crumbly, dry, few small rocks	9	Trace	Trace	Medium
+515rcbc28	515rcbc28	user_node	38	1.0	other	CGTTTGGAATGA	GTGYCAGCMGCCGCGGTAA	soil	2017	10	17	51.5239	-0.1309	below large tree and near smaller tree	10	high	grass	14	moist	moist, fairy even, slightly sandy	5	Low	Trace	Medium
+515rcbc29	515rcbc29	user_node	42	1.0	other	AAGAACTCATGA	GTGYCAGCMGCCGCGGTAA	soil	2017	10	17	51.524339	-0.131135	Immediately under a tree, next to roots.	10	none	tree	14	moist	moist, dark brown, quite a few rocks and twigs	6.5	Trace-Low	Low	Medium
+515rcbc30	515rcbc30	user_node	47	1.0	other	TGATATCGTCTT	GTGYCAGCMGCCGCGGTAA	soil	2017	10	17	51.5266048	-0.1332937	approximately 60 ft from the footpath and 1 ft from the London planetree.	8.5	none	none	14	dry	dry, sandy with some pebbles and tiny roots, pale brown coloured - light brown at the surface and a darker/deeper brown below surface	8.5	Trace	Medium	Low-Medium
+515rcbc31	515rcbc31	user_node	39	1.0	other	CGGTGACCTACT	GTGYCAGCMGCCGCGGTAA	soil	2017	10	17	51.52422	-0.1302	elevated area under Plane trees approximately 2 m away from footpath and 30 cm away from park wall	12	none	none	14	dry	dry, dark brown, perhaps with some clay, few small worms, few small stones	8	Trace	Medium	Medium
+515rcbc32	515rcbc32	user_node	38	1.0	other	AATGCGCGTATA	GTGYCAGCMGCCGCGGTAA	soil	2017	10	17	51.5240065	-0.1300144	about 5 m from the footpath and 5 m away from a quiet road. shaded by a tree, covered with bark chips, fallen leaves and stones. Roots from two old tress nearby can be seen on the surface of the ground. 50 cm from a small sapling and 5 m from two large trees which shaded the ground below	10	none	none	14	dry	medium hardness soil crumbles when shaken with moderate force, slightly damp, smooth soil, mixture of bark and small pebbles mixed in the soil, deep brown coloured soil	9.0	Trace	Low-Medium	Low
+515rcbc33	515rcbc33	user_node	36	1.0	other	CTTGATTCTTGA	GTGYCAGCMGCCGCGGTAA	soil	2017	10	17	51.5241	-0.1303	Under a tree but not near the trunk - about 2m from it -, in an area of very little grass and many leaves, near bird feed	11	none	none	15	dry	Dark, clay-like and very dry. Quite smooth but a little gritty. Found a piece of ceramic	9	Trace	Low-Medium	Low
+515rcbc34	515rcbc34	user_node	40	1.0	other	GAAATCTTGAAG	GTGYCAGCMGCCGCGGTAA	soil	2017	10	17	51.5241494	-0.130816	Near a Geranium Rozanne - Cranesbill - shrub	10	none	shrubs	15	dry	Sandy with some pebbles and worms	9	Trace	Trace	Low
+515rcbc35	515rcbc35	user_node	41	1.0	other	GAGATACAGTTC	GTGYCAGCMGCCGCGGTAA	soil	2017	10	17	51.5237466	-0.1308888	elevated area ca 12m away from footpath, surrounded by vegetation - within 0.5m distance: three small green-leaved plants 10-20cm tall, one small green-leaved tree	16	none	none	14	moist	moist, dense, dark brown colour, Soil contained: smaller than 5cm rocks, ca 1mm thin roots, white fertilisers	9	Trace	Medium	Medium
+515rcbc36	515rcbc36	user_node	34	1.0	other	GTGGAGTCTCAT	GTGYCAGCMGCCGCGGTAA	soil	2017	10	17	51.523722	-0.130722	about 10 metres away from footpath, Bushes, weeds, small rocks. and lots of fallen leaves and twigs. No grass.	10	none	none	14	moist	Tightly packed, fine with occasional small rocks	8.5	Low	Medium	Medium
+515rcbc37	515rcbc37	user_node	39	1.0	other	ACCTTACACCTT	GTGYCAGCMGCCGCGGTAA	soil	2017	10	17	51.5244894	-0.131737	The surface where we dug the soil was initially covered by yellow fallen leaves. It was surrounded by grass and a dwarf green leafy plant.	11	none	grass	14	dry	Coarse, crumbly and semi-compact. A few rocks present in the soil. Relatively dry	5	Medium	Medium	Medium
+515rcbc8	515rcbc8	user_node	37	1.0	other	GACTCAACCAGT	GTGYCAGCMGCCGCGGTAA	soil	2017	10	17	51.5248	-0.131	no grass, close to a tree, some roots were growing close to where the sample was taken.	12.5	none	none	15	dry	Very dry and powder like. There were a few stones present	5	Medium	Trace	High
+515rcbc9	515rcbc9	user_node	36	1.0	other	GCCTCTACGTCG	GTGYCAGCMGCCGCGGTAA	soil	2017	10	17	51.52477	-0.13122	sample taken between two trees, leaves on ground, no flowers/grass	10	none	none	15	dry	dry, stony, crumbly, hard	5.6	Trace	Trace	Low
+@515rcbc10		otu_collapsed	1	1.0	other	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu
+@515rcbc12		otu_collapsed	1	1.0	other	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu
+@515rcbc30		otu_collapsed	1	1.0	other	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu
+Unassigned;Other		otu_node	30	0.103637699405		otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu
+k__Archaea;p__Crenarchaeota		otu_node	30	0.707735499987		otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu
+k__Archaea;p__Euryarchaeota		otu_node	14	0.00189058828053		otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu
+k__Archaea;p__[Parvarchaeota]		otu_node	24	0.00168790155152		otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu
+k__Bacteria;Other		otu_node	3	3.83195413679e-05		otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu
+k__Bacteria;p__		otu_node	29	0.00648973691975		otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu
+k__Bacteria;p__AD3		otu_node	10	0.000994015056771		otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu
+k__Bacteria;p__Acidobacteria		otu_node	30	5.23596425341		otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu
+k__Bacteria;p__Actinobacteria		otu_node	30	4.00851356699		otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu
+k__Bacteria;p__Armatimonadetes		otu_node	29	0.0347829479743		otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu
+k__Bacteria;p__BHI80-139		otu_node	28	0.00211075663173		otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu
+k__Bacteria;p__BRC1		otu_node	29	0.00990272100454		otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu
+k__Bacteria;p__Bacteroidetes		otu_node	30	2.61146904053		otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu
+k__Bacteria;p__Chlamydiae		otu_node	30	0.0305376213267		otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu
+k__Bacteria;p__Chlorobi		otu_node	30	0.0370263722869		otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu
+k__Bacteria;p__Chloroflexi		otu_node	30	0.993385270865		otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu
+k__Bacteria;p__Cyanobacteria		otu_node	30	0.0830985161258		otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu
+k__Bacteria;p__Elusimicrobia		otu_node	29	0.0796191438921		otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu
+k__Bacteria;p__FBP		otu_node	29	0.00329185599164		otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu
+k__Bacteria;p__FCPU426		otu_node	27	0.00307087756813		otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu
+k__Bacteria;p__Fibrobacteres		otu_node	29	0.0062557720234		otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu
+k__Bacteria;p__Firmicutes		otu_node	30	0.322268066264		otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu
+k__Bacteria;p__Fusobacteria		otu_node	5	9.32310546011e-05		otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu
+k__Bacteria;p__GAL15		otu_node	11	0.000281667928564		otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu
+k__Bacteria;p__GN02		otu_node	29	0.00302850816968		otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu
+k__Bacteria;p__GN04		otu_node	5	0.000126717572886		otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu
+k__Bacteria;p__Gemmatimonadetes		otu_node	30	1.00961374886		otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu
+k__Bacteria;p__MVP-21		otu_node	19	0.00058489351975		otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu
+k__Bacteria;p__NC10		otu_node	4	0.000116897586533		otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu
+k__Bacteria;p__NKB19		otu_node	27	0.00183857629769		otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu
+k__Bacteria;p__Nitrospirae		otu_node	30	0.467373597232		otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu
+k__Bacteria;p__OD1		otu_node	29	0.00702749403417		otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu
+k__Bacteria;p__OP11		otu_node	24	0.000691427513492		otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu
+k__Bacteria;p__OP3		otu_node	30	0.0146713455409		otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu
+k__Bacteria;p__PAUC34f		otu_node	2	5.14505100426e-05		otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu
+k__Bacteria;p__Planctomycetes		otu_node	30	1.73634299838		otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu
+k__Bacteria;p__Proteobacteria		otu_node	30	8.6223552162		otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu
+k__Bacteria;p__SBR1093		otu_node	10	0.000449548534568		otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu
+k__Bacteria;p__SR1		otu_node	5	0.000130302503484		otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu
+k__Bacteria;p__Spirochaetes		otu_node	22	0.00128437713116		otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu
+k__Bacteria;p__TM6		otu_node	29	0.0385029740722		otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu
+k__Bacteria;p__TM7		otu_node	30	0.00916256382265		otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu
+k__Bacteria;p__Tenericutes		otu_node	29	0.00945863542615		otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu
+k__Bacteria;p__Verrucomicrobia		otu_node	30	3.49974896628		otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu
+k__Bacteria;p__WPS-2		otu_node	28	0.00443164925523		otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu
+k__Bacteria;p__WS1		otu_node	2	7.18483659377e-06		otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu
+k__Bacteria;p__WS2		otu_node	24	0.00062921955117		otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu
+k__Bacteria;p__WS3		otu_node	30	0.284073107638		otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu
+k__Bacteria;p__WS4		otu_node	3	8.35578241801e-05		otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu
+k__Bacteria;p__ZB3		otu_node	7	7.77398299476e-05		otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu
+k__Bacteria;p__[Caldithrix]		otu_node	24	0.00383718810146		otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu
+k__Bacteria;p__[Thermi]		otu_node	3	3.75824792855e-05		otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu	otu
