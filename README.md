@@ -3,4 +3,4 @@ The repository contains various scripts and their outputs for microbiome analysi
 
 The index.html file is a link to all the output from the core_analysis script, it gives alpha, beta, and taxonomy diversity
 
-The scripts summary file outline of all the scripts run on Cartesius 
+The scripts summary file outline all the scripts run on Cartesius  
