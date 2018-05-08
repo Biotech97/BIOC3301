@@ -1,0 +1,600 @@
+OtuPicker parameters:
+Application:uclust
+Similarity:0.97
+chimeras_retention:union
+enable_rev_strand_matching:False
+exact:False
+max_accepts:1
+max_rejects:8
+new_cluster_identifier:denovo
+next_new_cluster_number:1
+optimal:False
+output_dir:/home/cbmucl17/2018_02_smb/OTUs4/step3_otus/POTU_o59O_
+prefilter_identical_sequences:True
+presort_by_abundance:True
+save_uc_files:True
+stable_sort:True
+stepwords:8
+suppress_new_clusters:True
+suppress_sort:True
+word_length:8
+Reference seqs:/home/cbmucl17/2018_02_smb/OTUs4/step2_otus/step2_rep_set.fna
+Num OTUs:499
+Num new OTUs:0
+Num failures:26169
+Result path: /home/cbmucl17/2018_02_smb/OTUs4/step3_otus/POTU_o59O_/POTU_o59O_.0_otus.txt
+OtuPicker parameters:
+Application:uclust
+Similarity:0.97
+chimeras_retention:union
+enable_rev_strand_matching:False
+exact:False
+max_accepts:1
+max_rejects:8
+new_cluster_identifier:denovo
+next_new_cluster_number:1
+optimal:False
+output_dir:/home/cbmucl17/2018_02_smb/OTUs4/step3_otus/POTU_o59O_
+prefilter_identical_sequences:True
+presort_by_abundance:True
+save_uc_files:True
+stable_sort:True
+stepwords:8
+suppress_new_clusters:True
+suppress_sort:True
+word_length:8
+Reference seqs:/home/cbmucl17/2018_02_smb/OTUs4/step2_otus/step2_rep_set.fna
+Num OTUs:503
+Num new OTUs:0
+Num failures:26417
+Result path: /home/cbmucl17/2018_02_smb/OTUs4/step3_otus/POTU_o59O_/POTU_o59O_.1_otus.txt
+OtuPicker parameters:
+Application:uclust
+Similarity:0.97
+chimeras_retention:union
+enable_rev_strand_matching:False
+exact:False
+max_accepts:1
+max_rejects:8
+new_cluster_identifier:denovo
+next_new_cluster_number:1
+optimal:False
+output_dir:/home/cbmucl17/2018_02_smb/OTUs4/step3_otus/POTU_o59O_
+prefilter_identical_sequences:True
+presort_by_abundance:True
+save_uc_files:True
+stable_sort:True
+stepwords:8
+suppress_new_clusters:True
+suppress_sort:True
+word_length:8
+Reference seqs:/home/cbmucl17/2018_02_smb/OTUs4/step2_otus/step2_rep_set.fna
+Num OTUs:518
+Num new OTUs:0
+Num failures:26212
+Result path: /home/cbmucl17/2018_02_smb/OTUs4/step3_otus/POTU_o59O_/POTU_o59O_.2_otus.txt
+OtuPicker parameters:
+Application:uclust
+Similarity:0.97
+chimeras_retention:union
+enable_rev_strand_matching:False
+exact:False
+max_accepts:1
+max_rejects:8
+new_cluster_identifier:denovo
+next_new_cluster_number:1
+optimal:False
+output_dir:/home/cbmucl17/2018_02_smb/OTUs4/step3_otus/POTU_o59O_
+prefilter_identical_sequences:True
+presort_by_abundance:True
+save_uc_files:True
+stable_sort:True
+stepwords:8
+suppress_new_clusters:True
+suppress_sort:True
+word_length:8
+Reference seqs:/home/cbmucl17/2018_02_smb/OTUs4/step2_otus/step2_rep_set.fna
+Num OTUs:499
+Num new OTUs:0
+Num failures:26368
+Result path: /home/cbmucl17/2018_02_smb/OTUs4/step3_otus/POTU_o59O_/POTU_o59O_.3_otus.txt
+OtuPicker parameters:
+Application:uclust
+Similarity:0.97
+chimeras_retention:union
+enable_rev_strand_matching:False
+exact:False
+max_accepts:1
+max_rejects:8
+new_cluster_identifier:denovo
+next_new_cluster_number:1
+optimal:False
+output_dir:/home/cbmucl17/2018_02_smb/OTUs4/step3_otus/POTU_o59O_
+prefilter_identical_sequences:True
+presort_by_abundance:True
+save_uc_files:True
+stable_sort:True
+stepwords:8
+suppress_new_clusters:True
+suppress_sort:True
+word_length:8
+Reference seqs:/home/cbmucl17/2018_02_smb/OTUs4/step2_otus/step2_rep_set.fna
+Num OTUs:525
+Num new OTUs:0
+Num failures:26215
+Result path: /home/cbmucl17/2018_02_smb/OTUs4/step3_otus/POTU_o59O_/POTU_o59O_.4_otus.txt
+OtuPicker parameters:
+Application:uclust
+Similarity:0.97
+chimeras_retention:union
+enable_rev_strand_matching:False
+exact:False
+max_accepts:1
+max_rejects:8
+new_cluster_identifier:denovo
+next_new_cluster_number:1
+optimal:False
+output_dir:/home/cbmucl17/2018_02_smb/OTUs4/step3_otus/POTU_o59O_
+prefilter_identical_sequences:True
+presort_by_abundance:True
+save_uc_files:True
+stable_sort:True
+stepwords:8
+suppress_new_clusters:True
+suppress_sort:True
+word_length:8
+Reference seqs:/home/cbmucl17/2018_02_smb/OTUs4/step2_otus/step2_rep_set.fna
+Num OTUs:513
+Num new OTUs:0
+Num failures:26235
+Result path: /home/cbmucl17/2018_02_smb/OTUs4/step3_otus/POTU_o59O_/POTU_o59O_.5_otus.txt
+OtuPicker parameters:
+Application:uclust
+Similarity:0.97
+chimeras_retention:union
+enable_rev_strand_matching:False
+exact:False
+max_accepts:1
+max_rejects:8
+new_cluster_identifier:denovo
+next_new_cluster_number:1
+optimal:False
+output_dir:/home/cbmucl17/2018_02_smb/OTUs4/step3_otus/POTU_o59O_
+prefilter_identical_sequences:True
+presort_by_abundance:True
+save_uc_files:True
+stable_sort:True
+stepwords:8
+suppress_new_clusters:True
+suppress_sort:True
+word_length:8
+Reference seqs:/home/cbmucl17/2018_02_smb/OTUs4/step2_otus/step2_rep_set.fna
+Num OTUs:515
+Num new OTUs:0
+Num failures:26339
+Result path: /home/cbmucl17/2018_02_smb/OTUs4/step3_otus/POTU_o59O_/POTU_o59O_.6_otus.txt
+OtuPicker parameters:
+Application:uclust
+Similarity:0.97
+chimeras_retention:union
+enable_rev_strand_matching:False
+exact:False
+max_accepts:1
+max_rejects:8
+new_cluster_identifier:denovo
+next_new_cluster_number:1
+optimal:False
+output_dir:/home/cbmucl17/2018_02_smb/OTUs4/step3_otus/POTU_o59O_
+prefilter_identical_sequences:True
+presort_by_abundance:True
+save_uc_files:True
+stable_sort:True
+stepwords:8
+suppress_new_clusters:True
+suppress_sort:True
+word_length:8
+Reference seqs:/home/cbmucl17/2018_02_smb/OTUs4/step2_otus/step2_rep_set.fna
+Num OTUs:506
+Num new OTUs:0
+Num failures:26134
+Result path: /home/cbmucl17/2018_02_smb/OTUs4/step3_otus/POTU_o59O_/POTU_o59O_.7_otus.txt
+OtuPicker parameters:
+Application:uclust
+Similarity:0.97
+chimeras_retention:union
+enable_rev_strand_matching:False
+exact:False
+max_accepts:1
+max_rejects:8
+new_cluster_identifier:denovo
+next_new_cluster_number:1
+optimal:False
+output_dir:/home/cbmucl17/2018_02_smb/OTUs4/step3_otus/POTU_o59O_
+prefilter_identical_sequences:True
+presort_by_abundance:True
+save_uc_files:True
+stable_sort:True
+stepwords:8
+suppress_new_clusters:True
+suppress_sort:True
+word_length:8
+Reference seqs:/home/cbmucl17/2018_02_smb/OTUs4/step2_otus/step2_rep_set.fna
+Num OTUs:526
+Num new OTUs:0
+Num failures:26356
+Result path: /home/cbmucl17/2018_02_smb/OTUs4/step3_otus/POTU_o59O_/POTU_o59O_.8_otus.txt
+OtuPicker parameters:
+Application:uclust
+Similarity:0.97
+chimeras_retention:union
+enable_rev_strand_matching:False
+exact:False
+max_accepts:1
+max_rejects:8
+new_cluster_identifier:denovo
+next_new_cluster_number:1
+optimal:False
+output_dir:/home/cbmucl17/2018_02_smb/OTUs4/step3_otus/POTU_o59O_
+prefilter_identical_sequences:True
+presort_by_abundance:True
+save_uc_files:True
+stable_sort:True
+stepwords:8
+suppress_new_clusters:True
+suppress_sort:True
+word_length:8
+Reference seqs:/home/cbmucl17/2018_02_smb/OTUs4/step2_otus/step2_rep_set.fna
+Num OTUs:515
+Num new OTUs:0
+Num failures:26401
+Result path: /home/cbmucl17/2018_02_smb/OTUs4/step3_otus/POTU_o59O_/POTU_o59O_.9_otus.txt
+OtuPicker parameters:
+Application:uclust
+Similarity:0.97
+chimeras_retention:union
+enable_rev_strand_matching:False
+exact:False
+max_accepts:1
+max_rejects:8
+new_cluster_identifier:denovo
+next_new_cluster_number:1
+optimal:False
+output_dir:/home/cbmucl17/2018_02_smb/OTUs4/step3_otus/POTU_o59O_
+prefilter_identical_sequences:True
+presort_by_abundance:True
+save_uc_files:True
+stable_sort:True
+stepwords:8
+suppress_new_clusters:True
+suppress_sort:True
+word_length:8
+Reference seqs:/home/cbmucl17/2018_02_smb/OTUs4/step2_otus/step2_rep_set.fna
+Num OTUs:516
+Num new OTUs:0
+Num failures:26374
+Result path: /home/cbmucl17/2018_02_smb/OTUs4/step3_otus/POTU_o59O_/POTU_o59O_.10_otus.txt
+OtuPicker parameters:
+Application:uclust
+Similarity:0.97
+chimeras_retention:union
+enable_rev_strand_matching:False
+exact:False
+max_accepts:1
+max_rejects:8
+new_cluster_identifier:denovo
+next_new_cluster_number:1
+optimal:False
+output_dir:/home/cbmucl17/2018_02_smb/OTUs4/step3_otus/POTU_o59O_
+prefilter_identical_sequences:True
+presort_by_abundance:True
+save_uc_files:True
+stable_sort:True
+stepwords:8
+suppress_new_clusters:True
+suppress_sort:True
+word_length:8
+Reference seqs:/home/cbmucl17/2018_02_smb/OTUs4/step2_otus/step2_rep_set.fna
+Num OTUs:504
+Num new OTUs:0
+Num failures:26160
+Result path: /home/cbmucl17/2018_02_smb/OTUs4/step3_otus/POTU_o59O_/POTU_o59O_.11_otus.txt
+OtuPicker parameters:
+Application:uclust
+Similarity:0.97
+chimeras_retention:union
+enable_rev_strand_matching:False
+exact:False
+max_accepts:1
+max_rejects:8
+new_cluster_identifier:denovo
+next_new_cluster_number:1
+optimal:False
+output_dir:/home/cbmucl17/2018_02_smb/OTUs4/step3_otus/POTU_o59O_
+prefilter_identical_sequences:True
+presort_by_abundance:True
+save_uc_files:True
+stable_sort:True
+stepwords:8
+suppress_new_clusters:True
+suppress_sort:True
+word_length:8
+Reference seqs:/home/cbmucl17/2018_02_smb/OTUs4/step2_otus/step2_rep_set.fna
+Num OTUs:491
+Num new OTUs:0
+Num failures:26284
+Result path: /home/cbmucl17/2018_02_smb/OTUs4/step3_otus/POTU_o59O_/POTU_o59O_.12_otus.txt
+OtuPicker parameters:
+Application:uclust
+Similarity:0.97
+chimeras_retention:union
+enable_rev_strand_matching:False
+exact:False
+max_accepts:1
+max_rejects:8
+new_cluster_identifier:denovo
+next_new_cluster_number:1
+optimal:False
+output_dir:/home/cbmucl17/2018_02_smb/OTUs4/step3_otus/POTU_o59O_
+prefilter_identical_sequences:True
+presort_by_abundance:True
+save_uc_files:True
+stable_sort:True
+stepwords:8
+suppress_new_clusters:True
+suppress_sort:True
+word_length:8
+Reference seqs:/home/cbmucl17/2018_02_smb/OTUs4/step2_otus/step2_rep_set.fna
+Num OTUs:502
+Num new OTUs:0
+Num failures:26421
+Result path: /home/cbmucl17/2018_02_smb/OTUs4/step3_otus/POTU_o59O_/POTU_o59O_.13_otus.txt
+OtuPicker parameters:
+Application:uclust
+Similarity:0.97
+chimeras_retention:union
+enable_rev_strand_matching:False
+exact:False
+max_accepts:1
+max_rejects:8
+new_cluster_identifier:denovo
+next_new_cluster_number:1
+optimal:False
+output_dir:/home/cbmucl17/2018_02_smb/OTUs4/step3_otus/POTU_o59O_
+prefilter_identical_sequences:True
+presort_by_abundance:True
+save_uc_files:True
+stable_sort:True
+stepwords:8
+suppress_new_clusters:True
+suppress_sort:True
+word_length:8
+Reference seqs:/home/cbmucl17/2018_02_smb/OTUs4/step2_otus/step2_rep_set.fna
+Num OTUs:495
+Num new OTUs:0
+Num failures:26290
+Result path: /home/cbmucl17/2018_02_smb/OTUs4/step3_otus/POTU_o59O_/POTU_o59O_.14_otus.txt
+OtuPicker parameters:
+Application:uclust
+Similarity:0.97
+chimeras_retention:union
+enable_rev_strand_matching:False
+exact:False
+max_accepts:1
+max_rejects:8
+new_cluster_identifier:denovo
+next_new_cluster_number:1
+optimal:False
+output_dir:/home/cbmucl17/2018_02_smb/OTUs4/step3_otus/POTU_o59O_
+prefilter_identical_sequences:True
+presort_by_abundance:True
+save_uc_files:True
+stable_sort:True
+stepwords:8
+suppress_new_clusters:True
+suppress_sort:True
+word_length:8
+Reference seqs:/home/cbmucl17/2018_02_smb/OTUs4/step2_otus/step2_rep_set.fna
+Num OTUs:503
+Num new OTUs:0
+Num failures:26378
+Result path: /home/cbmucl17/2018_02_smb/OTUs4/step3_otus/POTU_o59O_/POTU_o59O_.15_otus.txt
+OtuPicker parameters:
+Application:uclust
+Similarity:0.97
+chimeras_retention:union
+enable_rev_strand_matching:False
+exact:False
+max_accepts:1
+max_rejects:8
+new_cluster_identifier:denovo
+next_new_cluster_number:1
+optimal:False
+output_dir:/home/cbmucl17/2018_02_smb/OTUs4/step3_otus/POTU_o59O_
+prefilter_identical_sequences:True
+presort_by_abundance:True
+save_uc_files:True
+stable_sort:True
+stepwords:8
+suppress_new_clusters:True
+suppress_sort:True
+word_length:8
+Reference seqs:/home/cbmucl17/2018_02_smb/OTUs4/step2_otus/step2_rep_set.fna
+Num OTUs:491
+Num new OTUs:0
+Num failures:26253
+Result path: /home/cbmucl17/2018_02_smb/OTUs4/step3_otus/POTU_o59O_/POTU_o59O_.16_otus.txt
+OtuPicker parameters:
+Application:uclust
+Similarity:0.97
+chimeras_retention:union
+enable_rev_strand_matching:False
+exact:False
+max_accepts:1
+max_rejects:8
+new_cluster_identifier:denovo
+next_new_cluster_number:1
+optimal:False
+output_dir:/home/cbmucl17/2018_02_smb/OTUs4/step3_otus/POTU_o59O_
+prefilter_identical_sequences:True
+presort_by_abundance:True
+save_uc_files:True
+stable_sort:True
+stepwords:8
+suppress_new_clusters:True
+suppress_sort:True
+word_length:8
+Reference seqs:/home/cbmucl17/2018_02_smb/OTUs4/step2_otus/step2_rep_set.fna
+Num OTUs:503
+Num new OTUs:0
+Num failures:26377
+Result path: /home/cbmucl17/2018_02_smb/OTUs4/step3_otus/POTU_o59O_/POTU_o59O_.17_otus.txt
+OtuPicker parameters:
+Application:uclust
+Similarity:0.97
+chimeras_retention:union
+enable_rev_strand_matching:False
+exact:False
+max_accepts:1
+max_rejects:8
+new_cluster_identifier:denovo
+next_new_cluster_number:1
+optimal:False
+output_dir:/home/cbmucl17/2018_02_smb/OTUs4/step3_otus/POTU_o59O_
+prefilter_identical_sequences:True
+presort_by_abundance:True
+save_uc_files:True
+stable_sort:True
+stepwords:8
+suppress_new_clusters:True
+suppress_sort:True
+word_length:8
+Reference seqs:/home/cbmucl17/2018_02_smb/OTUs4/step2_otus/step2_rep_set.fna
+Num OTUs:500
+Num new OTUs:0
+Num failures:26531
+Result path: /home/cbmucl17/2018_02_smb/OTUs4/step3_otus/POTU_o59O_/POTU_o59O_.18_otus.txt
+OtuPicker parameters:
+Application:uclust
+Similarity:0.97
+chimeras_retention:union
+enable_rev_strand_matching:False
+exact:False
+max_accepts:1
+max_rejects:8
+new_cluster_identifier:denovo
+next_new_cluster_number:1
+optimal:False
+output_dir:/home/cbmucl17/2018_02_smb/OTUs4/step3_otus/POTU_o59O_
+prefilter_identical_sequences:True
+presort_by_abundance:True
+save_uc_files:True
+stable_sort:True
+stepwords:8
+suppress_new_clusters:True
+suppress_sort:True
+word_length:8
+Reference seqs:/home/cbmucl17/2018_02_smb/OTUs4/step2_otus/step2_rep_set.fna
+Num OTUs:514
+Num new OTUs:0
+Num failures:26291
+Result path: /home/cbmucl17/2018_02_smb/OTUs4/step3_otus/POTU_o59O_/POTU_o59O_.19_otus.txt
+OtuPicker parameters:
+Application:uclust
+Similarity:0.97
+chimeras_retention:union
+enable_rev_strand_matching:False
+exact:False
+max_accepts:1
+max_rejects:8
+new_cluster_identifier:denovo
+next_new_cluster_number:1
+optimal:False
+output_dir:/home/cbmucl17/2018_02_smb/OTUs4/step3_otus/POTU_o59O_
+prefilter_identical_sequences:True
+presort_by_abundance:True
+save_uc_files:True
+stable_sort:True
+stepwords:8
+suppress_new_clusters:True
+suppress_sort:True
+word_length:8
+Reference seqs:/home/cbmucl17/2018_02_smb/OTUs4/step2_otus/step2_rep_set.fna
+Num OTUs:493
+Num new OTUs:0
+Num failures:26195
+Result path: /home/cbmucl17/2018_02_smb/OTUs4/step3_otus/POTU_o59O_/POTU_o59O_.20_otus.txt
+OtuPicker parameters:
+Application:uclust
+Similarity:0.97
+chimeras_retention:union
+enable_rev_strand_matching:False
+exact:False
+max_accepts:1
+max_rejects:8
+new_cluster_identifier:denovo
+next_new_cluster_number:1
+optimal:False
+output_dir:/home/cbmucl17/2018_02_smb/OTUs4/step3_otus/POTU_o59O_
+prefilter_identical_sequences:True
+presort_by_abundance:True
+save_uc_files:True
+stable_sort:True
+stepwords:8
+suppress_new_clusters:True
+suppress_sort:True
+word_length:8
+Reference seqs:/home/cbmucl17/2018_02_smb/OTUs4/step2_otus/step2_rep_set.fna
+Num OTUs:501
+Num new OTUs:0
+Num failures:26414
+Result path: /home/cbmucl17/2018_02_smb/OTUs4/step3_otus/POTU_o59O_/POTU_o59O_.21_otus.txt
+OtuPicker parameters:
+Application:uclust
+Similarity:0.97
+chimeras_retention:union
+enable_rev_strand_matching:False
+exact:False
+max_accepts:1
+max_rejects:8
+new_cluster_identifier:denovo
+next_new_cluster_number:1
+optimal:False
+output_dir:/home/cbmucl17/2018_02_smb/OTUs4/step3_otus/POTU_o59O_
+prefilter_identical_sequences:True
+presort_by_abundance:True
+save_uc_files:True
+stable_sort:True
+stepwords:8
+suppress_new_clusters:True
+suppress_sort:True
+word_length:8
+Reference seqs:/home/cbmucl17/2018_02_smb/OTUs4/step2_otus/step2_rep_set.fna
+Num OTUs:495
+Num new OTUs:0
+Num failures:26514
+Result path: /home/cbmucl17/2018_02_smb/OTUs4/step3_otus/POTU_o59O_/POTU_o59O_.22_otus.txt
+OtuPicker parameters:
+Application:uclust
+Similarity:0.97
+chimeras_retention:union
+enable_rev_strand_matching:False
+exact:False
+max_accepts:1
+max_rejects:8
+new_cluster_identifier:denovo
+next_new_cluster_number:1
+optimal:False
+output_dir:/home/cbmucl17/2018_02_smb/OTUs4/step3_otus/POTU_o59O_
+prefilter_identical_sequences:True
+presort_by_abundance:True
+save_uc_files:True
+stable_sort:True
+stepwords:8
+suppress_new_clusters:True
+suppress_sort:True
+word_length:8
+Reference seqs:/home/cbmucl17/2018_02_smb/OTUs4/step2_otus/step2_rep_set.fna
+Num OTUs:516
+Num new OTUs:0
+Num failures:26111
+Result path: /home/cbmucl17/2018_02_smb/OTUs4/step3_otus/POTU_o59O_/POTU_o59O_.23_otus.txt
